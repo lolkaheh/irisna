@@ -50,6 +50,6 @@ class Irisizm(loader.Module):
             return await message.edit('<b>Количество не должно превышать 5000 сообщений!</b>')
 
         for _ in range(count):
-            sent_message = await message.reply("<b>@animeonlybaevchat топ</b> 😈")
+            sent_message = await message.reply("<b>@BesedaBloody топ</b> 😈")
             await sleep(0.05)
             await sent_message.delete()
