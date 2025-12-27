@@ -11,7 +11,7 @@
 #  > ^ <  
 # ------------------------------------------------
 # Name: irisStat
-# meta developer: @Gydro4ka & @mertv_ya_naxyi
+# meta developer: @americaboys_official
 # Description: накрутка сообщений в статистике ириса
 # Commands: .inn | .инн
 # Thanks: me
