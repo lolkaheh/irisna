@@ -4,7 +4,7 @@
 #║██      ║██   ██   ╚╗██    ██   ║█
 #║██████╗╚╗██ ██     ╚╗██ ██     ║█████╗
 #╚══════╝ ╚═███        ╚═██       ╚═════╝
-# © Gydro4ka & mertv_ya_naxyi 2024-2025
+# © americaboys_official 2024-2025
 # this file - unofficial module for Hikka Userbot
 #  /\_/\   This module was loaded through https://t.me/hikka_gmod
 # ( o.o )   Licensed under the GNU AGPLv3.
